@@ -8,7 +8,7 @@ you can look at the image provided from mrd0x , to read more you can visit : htt
 ![image](https://user-images.githubusercontent.com/86433380/162735323-21cc0a85-ee0f-41b8-92ba-630416cd52b4.png)
 
 # ✅ note :
-- This framwork is composed of several popular site cloned pages , which are used to trick the user !!
+- This framework is composed of several popular site cloned pages , which are used to trick the user !!
 - One can modify the host webiste login page by adding custom html or css in `main.html` file !!
 - All the credential are found in sites/userpass/usernames.txt file !!
 - Make sure you have php install on your system
